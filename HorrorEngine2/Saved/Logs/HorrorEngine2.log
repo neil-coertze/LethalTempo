@@ -1978,3 +1978,71 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.01.28-14.07.48:586][365]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.01.28-14.07.48:586][365]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
 [2024.01.28-14.07.49:596][419]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.28-14.17.11:078][906]LogConcert: Display: Disconnected from Concert session 'LethalTempo' (Id: CA01575147B50AA632639AB3DBB5BC7E, Owner: coert).
+[2024.01.28-14.17.11:078][906]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: LethalTempo
+[2024.01.28-14.17.11:078][906]SourceControl: Revision control is disabled
+[2024.01.28-14.17.11:086][906]LogDirectoryWatcher: A directory notification for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/HorrorEngine2/' was aborted.
+[2024.01.28-14.17.11:086][906]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/HorrorEngine/Maps/Overview.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-14.17.11:087][906]LightingResults: New page: Lighting Build
+[2024.01.28-14.17.11:087][906]LoadErrors: New page: Loading map: Overview.umap
+[2024.01.28-14.17.11:095][906]LogWorld: UWorld::CleanupWorld for L_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.17.11:095][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.17.11:095][906]MapCheck: New page: Map Check
+[2024.01.28-14.17.11:095][906]LightingResults: New page: Lighting Build
+[2024.01.28-14.17.11:102][906]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-14.17.11:104][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.28-14.17.11:176][906]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.01.28-14.17.11:176][906]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.17.11:176][906]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-14.17.11:177][906]LogAIModule: Creating AISystem for world Untitled_1
+[2024.01.28-14.17.11:592][906]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-14.17.11:609][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.28-14.17.11:610][906]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-14.17.11:610][906]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,138ms to complete.
+[2024.01.28-14.17.11:614][906]LogActorComponent: UnregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.OldTv_938.TvAudio.AudioComponent_0) Not registered. Aborting.
+[2024.01.28-14.17.11:614][906]LogActorComponent: UnregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.OldTv2.TvAudio.AudioComponent_1) Not registered. Aborting.
+[2024.01.28-14.17.11:614][906]LogActorComponent: UnregisterComponent: (/Temp/Untitled_1.Untitled_1:PersistentLevel.Tv_602.TvAudio.AudioComponent_0) Not registered. Aborting.
+[2024.01.28-14.17.11:618][906]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny
+[2024.01.28-14.17.11:622][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.28-14.17.11:845][906]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_22) Not registered. Aborting.
+[2024.01.28-14.17.11:845][906]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_8) Not registered. Aborting.
+[2024.01.28-14.17.11:845][906]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_77) Not registered. Aborting.
+[2024.01.28-14.17.11:846][906]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_18) Not registered. Aborting.
+[2024.01.28-14.17.11:846][906]LogActorComponent: UnregisterComponent: (/Engine/Transient.PostProcessComponent_1) Not registered. Aborting.
+[2024.01.28-14.17.11:846][906]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_19) Not registered. Aborting.
+[2024.01.28-14.17.11:846][906]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_21) Not registered. Aborting.
+[2024.01.28-14.17.11:846][906]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.17.11:846][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.17.11:876][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.28-14.17.12:093][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.28-14.17.12:094][906]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.SM_Grass_Tiny
+[2024.01.28-14.17.12:150][906]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.17.12:150][906]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-14.17.12:397][906]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_InstancedStaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SMF_Grass.SMF_Grass
+[2024.01.28-14.17.12:417][906]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_InstancedStaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SMF_Grass_Tiny.SMF_Grass_Tiny
+[2024.01.28-14.17.12:475][906]LogConcert: Display: Shutdown Concert session 'LethalTempo' (Id: CA01575147B50AA632639AB3DBB5BC7E, Owner: coert).
+[2024.01.28-14.17.13:394][906]LogViewport: Scene viewport resized to 1988x787, mode Windowed.
+[2024.01.28-14.17.13:415][907]LogConcert: Display: Server NEIL_LENOVO lost.
+[2024.01.28-14.17.15:124][  5]LogSlate: Window 'SM_Grass_Tiny' being destroyed
+[2024.01.28-14.17.15:129][  5]LogSlate: Window 'SM_Grass_Tiny' being destroyed
+[2024.01.28-14.17.15:148][  5]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.17.15:148][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.17.18:074][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.28-14.17.53:240][409]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.28-14.17.53:251][409]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.28-14.17.53:256][410]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.28-14.17.57:103][639]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2024.01.28-14.17.57:103][639]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.28-14.18.12:917][506]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.28-14.18.12:928][506]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.28-14.18.12:932][506]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.28-14.18.12:958][508]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.28-14.18.16:301][703]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Actor
+[2024.01.28-14.18.16:306][703]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.28-14.18.17:008][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-14.18.17:054][745]LogSavePackage: Moving output files for package: /Game/LethalTempo/Blueprints/BP_Actor
+[2024.01.28-14.18.17:054][745]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/BP_ActorF8CDB318471A6D101A689A8D07D868CC.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Blueprints/BP_Actor.uasset'
+[2024.01.28-14.18.17:060][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 867 ms)
+[2024.01.28-14.18.17:061][745]AssetCheck: New page: Asset Save: BP_Actor
+[2024.01.28-14.18.17:061][745]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LethalTempo/Blueprints/BP_Actor.BP_Actor

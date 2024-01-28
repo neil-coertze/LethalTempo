@@ -68,11 +68,17 @@ HorrorEngine2/Saved/*
 
 # Compiled source files for the engine to use
 HorrorEngine2/Intermediate/*
-Plugins/*/Intermediate/*
+HorrorEngine2/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-DerivedDataCache/*
+HorrorEngine2/DerivedDataCache/*
 
 # Content to ignore
 HorrorEngine2/Content/LUSH_StylizedEnvironmentSet/*
 HorrorEngine2/Content/GoodSky/*
+HorrorEngine2/Content/A_Surface_Footstep/*
+HorrorEngine2/Content/MaterialFunctionCollection/*
+HorrorEngine2/Content/Realistic_Starter_VFX_Pack_Vol2/*
+HorrorEngine2/Content/sA_PickupSet_1/*
+HorrorEngine2/Content/Stylized_PBR_Nature/*
+
