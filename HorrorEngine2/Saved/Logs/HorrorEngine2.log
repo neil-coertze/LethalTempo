@@ -1164,3 +1164,523 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.28-13.20.45:473][394]LogConcert: [Success] Created Session 'LethalTempo'
 [2024.01.28-13.20.45:502][395]LogConcert: [Success] Created Session 'LethalTempo'
 [2024.01.28-13.22.09:041][ 45]LogDerivedDataCache: C:/Users/coert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:53.116 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 27856 files in 30246 folders with total size 2176 MiB.
+[2024.01.28-13.28.58:366][137]LogViewport: Scene viewport resized to 1554x896, mode Windowed.
+[2024.01.28-13.28.58:383][138]LogViewport: Scene viewport resized to 1554x895, mode Windowed.
+[2024.01.28-13.28.58:415][139]LogViewport: Scene viewport resized to 1554x890, mode Windowed.
+[2024.01.28-13.28.58:434][140]LogViewport: Scene viewport resized to 1554x889, mode Windowed.
+[2024.01.28-13.28.58:464][141]LogViewport: Scene viewport resized to 1554x882, mode Windowed.
+[2024.01.28-13.28.58:483][142]LogViewport: Scene viewport resized to 1554x877, mode Windowed.
+[2024.01.28-13.28.58:523][143]LogViewport: Scene viewport resized to 1554x865, mode Windowed.
+[2024.01.28-13.28.58:551][144]LogViewport: Scene viewport resized to 1554x859, mode Windowed.
+[2024.01.28-13.28.58:582][145]LogViewport: Scene viewport resized to 1554x857, mode Windowed.
+[2024.01.28-13.29.02:440][368]LogViewport: Scene viewport resized to 1163x537, mode Windowed.
+[2024.01.28-13.29.02:668][368]LogViewport: Scene viewport resized to 775x358, mode Windowed.
+[2024.01.28-13.29.02:933][368]LogViewport: Scene viewport resized to 1167x579, mode Windowed.
+[2024.01.28-13.29.05:542][522]LogViewport: Scene viewport resized to 1167x582, mode Windowed.
+[2024.01.28-13.29.05:565][523]LogViewport: Scene viewport resized to 1167x588, mode Windowed.
+[2024.01.28-13.29.05:593][524]LogViewport: Scene viewport resized to 1167x596, mode Windowed.
+[2024.01.28-13.29.05:613][525]LogViewport: Scene viewport resized to 1167x600, mode Windowed.
+[2024.01.28-13.29.05:632][526]LogViewport: Scene viewport resized to 1167x605, mode Windowed.
+[2024.01.28-13.29.05:651][527]LogViewport: Scene viewport resized to 1167x607, mode Windowed.
+[2024.01.28-13.29.05:684][528]LogViewport: Scene viewport resized to 1167x610, mode Windowed.
+[2024.01.28-13.29.05:819][536]LogViewport: Scene viewport resized to 1167x611, mode Windowed.
+[2024.01.28-13.29.05:837][537]LogViewport: Scene viewport resized to 1167x614, mode Windowed.
+[2024.01.28-13.29.05:861][538]LogViewport: Scene viewport resized to 1167x616, mode Windowed.
+[2024.01.28-13.29.05:888][539]LogViewport: Scene viewport resized to 1167x618, mode Windowed.
+[2024.01.28-13.29.05:907][540]LogViewport: Scene viewport resized to 1167x620, mode Windowed.
+[2024.01.28-13.29.06:108][552]LogViewport: Scene viewport resized to 1167x621, mode Windowed.
+[2024.01.28-13.29.06:143][554]LogViewport: Scene viewport resized to 1167x623, mode Windowed.
+[2024.01.28-13.29.06:692][587]LogViewport: Scene viewport resized to 1167x624, mode Windowed.
+[2024.01.28-13.29.06:709][588]LogViewport: Scene viewport resized to 1167x626, mode Windowed.
+[2024.01.28-13.29.13:422][982]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.28-13.29.13:496][982]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.28-13.29.13:503][983]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.28-13.29.17:934][249]LogContentBrowser: Attempting asset rename: NewFolder -> LethalTempo
+[2024.01.28-13.29.17:934][249]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.28-13.29.21:316][447]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.28-13.29.21:325][447]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.28-13.29.21:385][449]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.28-13.29.22:896][540]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2024.01.28-13.29.22:897][540]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.28-13.29.25:536][694]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.01.28-13.29.25:544][694]LogContentBrowser: Creating deferred item: NewWorld
+[2024.01.28-13.29.25:584][696]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.01.28-13.29.41:781][667]LogContentBrowser: Attempting asset rename: NewWorld -> L_Tutorial
+[2024.01.28-13.29.41:783][667]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.29.41:783][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-13.29.41:792][667]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.007691 seconds
+[2024.01.28-13.29.41:795][667]LogContentBrowser: End creating deferred item NewWorld
+[2024.01.28-13.29.41:796][667]AssetCheck: New page: Asset Save: L_Tutorial
+[2024.01.28-13.29.41:796][667]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.29.41:829][670]LogConcert: Display: Synced activity '2' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil added package /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.29.43:181][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-13.29.43:238][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.28-13.29.43:243][750]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Tutorial
+[2024.01.28-13.29.43:243][750]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_TutorialEEB0F9E249A5ED9F1A7FF6A686B99F5D.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap'
+[2024.01.28-13.29.43:244][750]LogFileHelpers: Saving map 'L_Tutorial' took 0.017
+[2024.01.28-13.29.43:250][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms
+[2024.01.28-13.29.43:253][750]AssetCheck: New page: Asset Save: L_Tutorial
+[2024.01.28-13.29.43:253][750]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.29.43:300][753]LogConcert: Display: Synced activity '3' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.29.44:221][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.28-13.29.44:222][807]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.29.44:222][807]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-13.29.44:223][807]LightingResults: New page: Lighting Build
+[2024.01.28-13.29.44:223][807]LoadErrors: New page: Loading map: L_Tutorial.umap
+[2024.01.28-13.29.44:237][807]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.29.44:238][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.29.44:238][807]MapCheck: New page: Map Check
+[2024.01.28-13.29.44:238][807]LightingResults: New page: Lighting Build
+[2024.01.28-13.29.44:245][807]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-13.29.44:254][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.28-13.29.44:258][807]LogWorld: UWorld::CleanupWorld for L_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.29.44:258][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.29.44:261][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.28-13.29.44:265][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.28-13.29.44:267][807]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Tutorial'.
+[2024.01.28-13.29.44:267][807]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.29.44:267][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-13.29.44:267][807]LogAIModule: Creating AISystem for world L_Tutorial
+[2024.01.28-13.29.44:284][807]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-13.29.44:287][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.28-13.29.44:289][807]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-13.29.44:289][807]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2024.01.28-13.29.49:020][ 88]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.28-13.29.50:033][147]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.28-13.29.50:033][147]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.28-13.29.50:035][147]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.SkyLight_0
+[2024.01.28-13.29.50:035][147]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.SkyLight_0
+[2024.01.28-13.29.50:292][162]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.28-13.29.50:293][162]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2024.01.28-13.29.50:295][162]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.SkyLight_1
+[2024.01.28-13.29.50:295][162]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.SkyLight_1
+[2024.01.28-13.29.50:305][162]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/PCG.PCGSettings'
+[2024.01.28-13.29.50:381][166]LogConcert: Display: Synced activity '4' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil created SkyLight_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.29.54:610][416]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2024.01.28-13.29.54:611][416]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2024.01.28-13.29.54:611][416]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.VolumetricCloud_0
+[2024.01.28-13.29.54:611][416]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.VolumetricCloud_0
+[2024.01.28-13.29.54:980][438]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2024.01.28-13.29.54:980][438]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2024.01.28-13.29.54:980][438]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.VolumetricCloud_1
+[2024.01.28-13.29.54:980][438]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.VolumetricCloud_1
+[2024.01.28-13.29.55:056][442]LogConcert: Display: Synced activity '5' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil created VolumetricCloud_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.29.58:961][672]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2024.01.28-13.29.58:961][672]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2024.01.28-13.29.58:962][672]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.ExponentialHeightFog_0
+[2024.01.28-13.29.58:962][672]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.ExponentialHeightFog_0
+[2024.01.28-13.29.59:449][701]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2024.01.28-13.29.59:449][701]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2024.01.28-13.29.59:449][701]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.ExponentialHeightFog_1
+[2024.01.28-13.29.59:449][701]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.ExponentialHeightFog_1
+[2024.01.28-13.29.59:528][705]LogConcert: Display: Synced activity '6' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil created ExponentialHeightFog_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.30.04:399][993]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2024.01.28-13.30.04:399][993]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2024.01.28-13.30.04:399][993]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.SkyAtmosphere_0
+[2024.01.28-13.30.04:399][993]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.SkyAtmosphere_0
+[2024.01.28-13.30.04:819][ 18]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2024.01.28-13.30.04:819][ 18]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2024.01.28-13.30.04:820][ 18]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.SkyAtmosphere_1
+[2024.01.28-13.30.04:820][ 18]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.SkyAtmosphere_1
+[2024.01.28-13.30.04:898][ 22]LogConcert: Display: Synced activity '7' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil created SkyAtmosphere_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.30.06:280][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.28-13.30.06:286][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-13.30.06:351][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.28-13.30.06:353][103]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Tutorial
+[2024.01.28-13.30.06:353][103]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_Tutorial7B4C002144ACA9A73C33C5A95A916B9B.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap'
+[2024.01.28-13.30.06:356][103]LogFileHelpers: Saving map 'L_Tutorial' took 0.016
+[2024.01.28-13.30.06:363][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 147 ms)
+[2024.01.28-13.30.06:365][103]AssetCheck: New page: Asset Save: L_Tutorial
+[2024.01.28-13.30.06:365][103]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.30.06:401][105]LogConcert: Display: Synced activity '8' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.30.11:383][403]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: ================================================
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Total job queries 321, among them cache hits 117 (36.45%)
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Tracking 202 distinct input hashes that result in 126 distinct outputs (62.38%)
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: RAM used: 4,63 MiB of 1,60 GiB budget. Usage: 0.28%
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Jobs assigned 6, completed 4 (66.67%)
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.13 s
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Job execution time: average 0.37 s, max 0.37 s
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Job life time (pending + execution): average 0.40 s, max 0.40
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Shader code size: average 38,998 KiB, min 38,188 KiB, max 40,43 KiB
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.40 s
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Average processing rate: 10.04 jobs/sec
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Total thread time: 0,65 s
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Total thread preprocess time: 0,075 s
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Percentage time preprocessing: 11.46%
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Effective parallelization: 1.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.18 sec, max 0.19 sec, min 0.17 sec)
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.15 sec, max 0.15 sec, min 0.14 sec)
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 54.46% of total time (compiled    2 times, average 0.18 sec, max 0.19 sec, min 0.17 sec)
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 45.54% of total time (compiled    2 times, average 0.15 sec, max 0.15 sec, min 0.14 sec)
+[2024.01.28-13.30.11:800][426]LogShaderCompilers: Display: ================================================
+[2024.01.28-13.30.12:015][439]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.30.12:343][458]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.30.13:367][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2024.01.28-13.30.13:367][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2024.01.28-13.30.13:368][514]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.BP_Sky_Sphere_C_0
+[2024.01.28-13.30.13:369][514]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.BP_Sky_Sphere_C_0
+[2024.01.28-13.30.13:661][531]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2024.01.28-13.30.13:661][531]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C
+[2024.01.28-13.30.13:663][531]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.BP_Sky_Sphere_C_1
+[2024.01.28-13.30.13:663][531]LogActorFactory: Actor Factory spawned Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere as actor: BP_Sky_Sphere_C /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.BP_Sky_Sphere_C_1
+[2024.01.28-13.30.13:741][535]LogConcert: Display: Synced activity '9' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil created BP_Sky_Sphere_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.30.15:269][626]Cmd: TRANSACTION UNDO
+[2024.01.28-13.30.15:269][626]LogEditorTransaction: Undo Create Actors
+[2024.01.28-13.30.15:415][629]LogConcert: Display: Synced activity '10' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil deleted BP_Sky_Sphere_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.32.37:511][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.28-13.32.37:618][701]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.32.37:742][701]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HorrorEngine/Maps/Overview.Overview
+[2024.01.28-13.32.37:742][701]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/HorrorEngine/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-13.32.37:742][701]LightingResults: New page: Lighting Build
+[2024.01.28-13.32.37:742][701]LoadErrors: New page: Loading map: Overview.umap
+[2024.01.28-13.32.37:750][701]LogWorld: UWorld::CleanupWorld for L_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.32.37:750][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.32.37:751][701]MapCheck: New page: Map Check
+[2024.01.28-13.32.37:751][701]LightingResults: New page: Lighting Build
+[2024.01.28-13.32.37:757][701]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-13.32.37:762][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.28-13.32.37:767][701]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.32.37:771][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.32.37:785][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.28-13.32.37:789][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.28-13.32.37:849][701]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2024.01.28-13.32.37:849][701]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.32.37:849][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-13.32.37:850][701]LogAIModule: Creating AISystem for world Overview
+[2024.01.28-13.32.38:230][701]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-13.32.38:245][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.28-13.32.38:250][701]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-13.32.38:250][701]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,153ms to complete.
+[2024.01.28-13.32.48:068][274]Cmd: EDIT COPY
+[2024.01.28-13.32.49:402][354]Cmd: EDIT COPY
+[2024.01.28-13.32.49:588][365]Cmd: EDIT COPY
+[2024.01.28-13.32.49:771][376]Cmd: EDIT COPY
+[2024.01.28-13.32.49:955][387]Cmd: EDIT COPY
+[2024.01.28-13.32.50:138][398]Cmd: EDIT COPY
+[2024.01.28-13.32.50:322][409]Cmd: EDIT COPY
+[2024.01.28-13.32.50:571][424]Cmd: EDIT COPY
+[2024.01.28-13.32.50:838][440]Cmd: EDIT COPY
+[2024.01.28-13.32.51:088][455]Cmd: EDIT COPY
+[2024.01.28-13.32.51:271][466]Cmd: EDIT COPY
+[2024.01.28-13.32.51:421][475]Cmd: EDIT COPY
+[2024.01.28-13.32.51:576][484]Cmd: EDIT COPY
+[2024.01.28-13.32.51:743][494]Cmd: EDIT COPY
+[2024.01.28-13.32.51:876][502]Cmd: EDIT COPY
+[2024.01.28-13.33.00:162][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.28-13.33.00:221][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.33.00:221][998]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.33.00:221][998]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-13.33.00:222][998]LightingResults: New page: Lighting Build
+[2024.01.28-13.33.00:222][998]LoadErrors: New page: Loading map: L_Tutorial.umap
+[2024.01.28-13.33.00:267][998]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.33.00:268][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.33.00:268][998]MapCheck: New page: Map Check
+[2024.01.28-13.33.00:268][998]LightingResults: New page: Lighting Build
+[2024.01.28-13.33.00:277][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-13.33.00:283][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.28-13.33.00:287][998]LogWorld: UWorld::CleanupWorld for L_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.33.00:287][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.33.00:291][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.28-13.33.00:295][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.28-13.33.00:298][998]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Tutorial'.
+[2024.01.28-13.33.00:298][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.33.00:298][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-13.33.00:298][998]LogAIModule: Creating AISystem for world L_Tutorial
+[2024.01.28-13.33.00:315][998]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-13.33.00:319][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.28-13.33.00:322][998]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-13.33.00:322][998]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2024.01.28-13.33.03:305][170]Cmd: DELETE
+[2024.01.28-13.33.03:306][170]Cmd: ACTOR DELETE
+[2024.01.28-13.33.03:308][170]LogEditorActor: Deleted Actor: VolumetricCloud
+[2024.01.28-13.33.03:308][170]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2024.01.28-13.33.03:309][170]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2024.01.28-13.33.03:309][170]LogEditorActor: Deleted Actor: SkyLight
+[2024.01.28-13.33.03:312][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.28-13.33.03:314][170]LogEditorActor: Deleted 4 Actors (0.008 secs)
+[2024.01.28-13.33.03:343][173]LogConcert: Display: Synced activity '11' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil deleted ExponentialHeightFog_1 in /Game/LethalTempo/Maps/L_Tutorial, plus 3 other actions.
+[2024.01.28-13.33.03:639][190]Cmd: EDIT PASTE
+[2024.01.28-13.33.03:715][194]LogConcert: Display: Synced activity '12' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil created DirectionalLight_0 in /Game/LethalTempo/Maps/L_Tutorial, plus 3 other actions.
+[2024.01.28-13.33.09:225][524]LogEditorViewport: Clicking Background
+[2024.01.28-13.33.09:711][552]LogEditorViewport: Clicking Background
+[2024.01.28-13.33.10:065][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.28-13.33.10:068][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-13.33.10:135][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.28-13.33.10:138][573]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Tutorial
+[2024.01.28-13.33.10:139][573]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_TutorialBB040B724E8CA94E4CE5C0858165FC8D.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap'
+[2024.01.28-13.33.10:141][573]LogFileHelpers: Saving map 'L_Tutorial' took 0.017
+[2024.01.28-13.33.10:147][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 226 ms)
+[2024.01.28-13.33.10:151][573]AssetCheck: New page: Asset Save: L_Tutorial
+[2024.01.28-13.33.10:151][573]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.33.10:199][576]LogConcert: Display: Synced activity '13' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.33.14:239][817]Cmd: DELETE
+[2024.01.28-13.33.14:239][817]Cmd: ACTOR DELETE
+[2024.01.28-13.33.14:240][817]LogEditorActor: Deleted Actor: SkyLight
+[2024.01.28-13.33.14:243][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.28-13.33.14:246][817]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2024.01.28-13.33.14:294][821]LogConcert: Display: Synced activity '14' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil deleted SkyLight_0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.33.15:489][892]Cmd: TRANSACTION UNDO
+[2024.01.28-13.33.15:489][892]LogEditorTransaction: Undo Delete Elements
+[2024.01.28-13.33.15:639][895]LogConcert: Display: Synced activity '15' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil created SkyLight_0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.33.16:630][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.28-13.33.17:282][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.28-13.33.17:551][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.28-13.33.17:702][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.28-13.33.17:853][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.28-13.33.17:975][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.28-13.33.18:125][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.28-13.33.25:593][477]LogContentBrowser: Attempting asset rename: L_Tutorial -> L_Template
+[2024.01.28-13.33.27:565][477]LogSlate: Window 'Message' being destroyed
+[2024.01.28-13.33.27:600][477]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+L_Tutorial
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.01.28-13.33.27:609][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-13.33.27:658][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.28-13.33.27:661][477]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Template
+[2024.01.28-13.33.27:661][477]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_TemplateC884C93A42A67F8570464A9714479416.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Template.umap'
+[2024.01.28-13.33.27:663][477]LogFileHelpers: Saving map 'L_Template' took 0.016
+[2024.01.28-13.33.27:663][477]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Tutorial
+[2024.01.28-13.33.27:663][477]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_TutorialA40D3CA748A5436BCAC144AA25BEE9E1.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap'
+[2024.01.28-13.33.27:672][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 290 ms)
+[2024.01.28-13.33.27:674][477]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-13.33.27:674][477]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Template.L_Template
+[2024.01.28-13.33.27:674][477]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.33.27:688][478]LogConcert: Display: Synced activity '16' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil locked /Game/LethalTempo/Maps/L_Template.
+[2024.01.28-13.33.27:741][479]LogConcert: Display: Synced activity '17' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LethalTempo/Maps/L_Template.
+[2024.01.28-13.33.27:741][479]LogConcert: Display: Synced activity '18' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil unlocked /Game/LethalTempo/Maps/L_Template.
+[2024.01.28-13.33.27:741][479]LogConcert: Display: Synced activity '19' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil renamed package /Game/LethalTempo/Maps/L_Tutorial to /Game/LethalTempo/Maps/L_Template.
+[2024.01.28-13.33.30:233][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.33.30:247][628]AssetCheck: New page: Asset Save: L_Template1
+[2024.01.28-13.33.30:247][628]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Template1.L_Template1
+[2024.01.28-13.33.30:277][629]LogConcert: Display: Synced activity '20' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil added package /Game/LethalTempo/Maps/L_Template1.
+[2024.01.28-13.33.31:910][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-13.33.31:945][710]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-13.33.31:950][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.28-13.33.31:953][710]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Template1
+[2024.01.28-13.33.31:953][710]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_Template106D2E7D9404403137403B889449E4D6E.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Template1.umap'
+[2024.01.28-13.33.31:955][710]LogFileHelpers: Saving map 'L_Template1' took 0.010
+[2024.01.28-13.33.31:963][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 343 ms)
+[2024.01.28-13.33.31:965][710]AssetCheck: New page: Asset Save: L_Template1
+[2024.01.28-13.33.31:965][710]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Template1.L_Template1
+[2024.01.28-13.33.32:005][713]LogConcert: Display: Synced activity '21' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LethalTempo/Maps/L_Template1.
+[2024.01.28-13.33.41:552][209]LogContentBrowser: Attempting asset rename: L_Template1 -> L_Template1
+[2024.01.28-13.33.46:444][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.28-13.33.46:458][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.28-13.33.46:460][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.28-13.33.46:463][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.28-13.33.46:489][492]LogConcert: Display: Synced activity '22' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil locked /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.33.46:489][492]LogConcert: Display: Synced activity '23' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil deleted package /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.33.46:490][492]LogConcert: Display: Synced activity '24' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil unlocked /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.33.49:380][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.28-13.33.49:381][662]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LethalTempo/Maps/L_Template1.L_Template1
+[2024.01.28-13.33.49:381][662]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Template1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-13.33.49:381][662]LightingResults: New page: Lighting Build
+[2024.01.28-13.33.49:381][662]LoadErrors: New page: Loading map: L_Template1.umap
+[2024.01.28-13.33.49:391][662]LogWorld: UWorld::CleanupWorld for L_Template, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.33.49:391][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.33.49:391][662]MapCheck: New page: Map Check
+[2024.01.28-13.33.49:391][662]LightingResults: New page: Lighting Build
+[2024.01.28-13.33.49:393][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-13.33.49:394][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.28-13.33.49:395][662]LogWorld: UWorld::CleanupWorld for L_Template1, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.33.49:395][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.33.49:400][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.28-13.33.49:403][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.01.28-13.33.49:404][662]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Template1'.
+[2024.01.28-13.33.49:404][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.33.49:404][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-13.33.49:405][662]LogAIModule: Creating AISystem for world L_Template1
+[2024.01.28-13.33.49:421][662]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-13.33.49:426][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.28-13.33.49:428][662]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-13.33.49:428][662]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,154ms to complete.
+[2024.01.28-13.33.57:626][150]LogContentBrowser: Attempting asset rename: L_Template1 -> L_Tutorial
+[2024.01.28-13.33.57:646][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-13.33.57:699][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.28-13.33.57:703][150]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Tutorial
+[2024.01.28-13.33.57:703][150]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_TutorialF3BBFC8246479D3FCFF9CBA8EFDFF2E2.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap'
+[2024.01.28-13.33.57:705][150]LogFileHelpers: Saving map 'L_Tutorial' took 0.016
+[2024.01.28-13.33.57:706][150]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Template1
+[2024.01.28-13.33.57:706][150]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_Template1CFEEC37043B092DD25D97E93D61A6B2F.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Template1.umap'
+[2024.01.28-13.33.57:713][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 411 ms)
+[2024.01.28-13.33.57:716][150]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-13.33.57:716][150]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.33.57:716][150]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LethalTempo/Maps/L_Template1.L_Template1
+[2024.01.28-13.33.57:730][151]LogConcert: Display: Synced activity '25' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil locked /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.33.57:784][153]LogConcert: Display: Synced activity '26' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.33.57:784][153]LogConcert: Display: Synced activity '27' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil unlocked /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.33.57:784][153]LogConcert: Display: Synced activity '28' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil renamed package /Game/LethalTempo/Maps/L_Template1 to /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.33.59:255][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.28-13.33.59:256][240]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.33.59:256][240]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-13.33.59:256][240]LightingResults: New page: Lighting Build
+[2024.01.28-13.33.59:256][240]LoadErrors: New page: Loading map: L_Tutorial.umap
+[2024.01.28-13.33.59:264][240]LogWorld: UWorld::CleanupWorld for L_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.33.59:264][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.33.59:264][240]MapCheck: New page: Map Check
+[2024.01.28-13.33.59:264][240]LightingResults: New page: Lighting Build
+[2024.01.28-13.33.59:266][240]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-13.33.59:268][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.28-13.33.59:269][240]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Tutorial'.
+[2024.01.28-13.33.59:269][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.33.59:269][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-13.33.59:271][240]LogAIModule: Creating AISystem for world L_Tutorial
+[2024.01.28-13.33.59:287][240]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-13.33.59:292][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.28-13.33.59:293][240]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-13.33.59:293][240]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2024.01.28-13.34.01:340][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.01.28-13.34.01:341][363]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.34.01:341][363]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-13.34.01:341][363]LightingResults: New page: Lighting Build
+[2024.01.28-13.34.01:341][363]LoadErrors: New page: Loading map: L_Tutorial.umap
+[2024.01.28-13.34.01:350][363]LogWorld: UWorld::CleanupWorld for L_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.34.01:350][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.34.01:350][363]MapCheck: New page: Map Check
+[2024.01.28-13.34.01:350][363]LightingResults: New page: Lighting Build
+[2024.01.28-13.34.01:352][363]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-13.34.01:353][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.28-13.34.01:356][363]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Tutorial'.
+[2024.01.28-13.34.01:356][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.34.01:356][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-13.34.01:356][363]LogAIModule: Creating AISystem for world L_Tutorial
+[2024.01.28-13.34.01:372][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-13.34.01:376][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.28-13.34.01:379][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-13.34.01:379][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,1ms to complete.
+[2024.01.28-13.34.13:228][ 74]Cmd: POLY SELECT MEMORY UNION
+[2024.01.28-13.34.13:246][ 75]Cmd: POLY SELECT ADJACENT WALLS
+[2024.01.28-13.34.15:045][183]Cmd: POLY SELECT MEMORY UNION
+[2024.01.28-13.34.15:045][183]Cmd: POLY SELECT ADJACENT WALLS
+[2024.01.28-13.34.24:034][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:034][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:034][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/Developers/coert/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:034][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ACLPlugin/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:034][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/AnimationSharing/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:034][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/AudioSynesthesia/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:034][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/AudioWidgets/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/BlueprintHeaderView/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/Bridge/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ChaosCaching/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ChaosClothEditor/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ChaosNiagara/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ChaosSolverPlugin/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ConcertSyncClient/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ControlRig/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ControlRigSpline/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/Dataflow/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/DatasmithContent/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/Engine/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/FullBodyIK/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/GeometryCollectionPlugin/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/GeometryMode/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/GeometryProcessing/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/GLTFExporter/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/IKRig/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/LightMixer/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/MediaCompositing/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/MediaPlate/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/MeshModelingToolset/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/MeshModelingToolsetExp/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/Metasound/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/MultiUserTakes/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/Niagara/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:035][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ObjectMixer/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/Paper2D/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/PythonScriptPlugin/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ResonanceAudio/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/RigVM/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/Runtime/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/SequencerScripting/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/SpeedTreeImporter/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/Synthesis/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/Takes/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/ToolPresets/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/TraceUtilities/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/UVEditor/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.34.24:036][494]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Intermediate/Concert/MultiUser/78CF5F014AA61CEA951F52AE6B7D57CB/CA01575147B50AA632639AB3DBB5BC7E/Sandbox/WaveTable/' because it could not be accessed. Aborting watch request...
+[2024.01.28-13.46.46:681][210]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.46.46:754][210]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2024.01.28-13.46.46:754][210]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2024.01.28-13.46.46:757][210]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.BP_GoodSky_C_0
+[2024.01.28-13.46.46:760][210]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.BP_GoodSky_C_0
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: ================================================
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Total job queries 341, among them cache hits 117 (34.31%)
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Tracking 208 distinct input hashes that result in 130 distinct outputs (62.50%)
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: RAM used: 4,80 MiB of 1,60 GiB budget. Usage: 0.29%
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Shaders Compiled: 10
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Jobs assigned 26, completed 10 (38.46%)
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Average time worker was idle: 596.91 s
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.35 s
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Job execution time: average 0.35 s, max 0.43 s
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Job life time (pending + execution): average 0.41 s, max 0.56
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Shader code size: average 46,293 KiB, min 36,961 KiB, max 85,676 KiB
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.37 s
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Average processing rate: 7.32 jobs/sec
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Total thread time: 1,681 s
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Total thread preprocess time: 0,219 s
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Percentage time preprocessing: 13.00%
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Effective parallelization: 1.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.18 sec, max 0.23 sec, min 0.15 sec)
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.17 sec, max 0.23 sec, min 0.12 sec)
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 49.26% of total time (compiled    5 times, average 0.17 sec, max 0.23 sec, min 0.12 sec)
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 43.59% of total time (compiled    4 times, average 0.18 sec, max 0.23 sec, min 0.15 sec)
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.15% of total time (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2024.01.28-13.46.47:186][233]LogShaderCompilers: Display: ================================================
+[2024.01.28-13.46.47:308][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2024.01.28-13.46.47:308][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2024.01.28-13.46.47:312][240]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.BP_GoodSky_C_1
+[2024.01.28-13.46.47:315][240]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.BP_GoodSky_C_1
+[2024.01.28-13.46.47:353][240]LogSlate: Took 0.002486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.01.28-13.46.47:415][244]LogConcert: Display: Synced activity '29' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil created BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.46.53:631][613]LogConcert: Display: Synced activity '30' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.46.57:267][831]LogConcert: Display: Synced activity '31' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.46.58:629][912]LogConcert: Display: Synced activity '32' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.47.00:312][ 12]LogConcert: Display: Synced activity '33' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.47.13:498][797]LogConcert: Display: Synced activity '34' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.47.25:686][522]LogConcert: Display: Synced activity '35' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.47.38:072][260]LogConcert: Display: Synced activity '36' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.47.47:248][805]LogConcert: Display: Synced activity '37' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.48.50:449][593]LogConcert: Display: Synced activity '38' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.49.20:144][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.28-13.49.20:155][993]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LethalTempo/Maps/L_Tutorial_Auto1
+[2024.01.28-13.49.20:155][993]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_Tutorial_Auto1448F102449D3A2845D376C8F7ABFC74C.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/Autosaves/Game/LethalTempo/Maps/L_Tutorial_Auto1.umap'
+[2024.01.28-13.49.20:155][993]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/Autosaves/Game/LethalTempo/Maps/L_Tutorial_Auto1.umap is in the /Temp path, will not scan.
+[2024.01.28-13.49.20:155][993]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/LethalTempo/Maps/L_Tutorial_Auto1 is in the /Temp path, will not scan.
+[2024.01.28-13.49.20:155][993]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/LethalTempo/Maps/L_Tutorial_Auto1 is in the /Temp path, will not scan.
+[2024.01.28-13.49.20:155][993]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LethalTempo/Maps/L_Tutorial' took 0.019
+[2024.01.28-13.49.20:155][993]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.01.28-13.50.04:922][546]LogConcert: Display: Synced activity '39' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.50.16:212][221]LogConcert: Display: Synced activity '40' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.50.21:958][559]LogConcert: Display: Synced activity '41' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.50.24:957][737]LogConcert: Display: Synced activity '42' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.50.31:441][124]LogConcert: Display: Synced activity '43' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.50.33:031][218]LogConcert: Display: Synced activity '44' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.50.36:619][430]LogConcert: Display: Synced activity '45' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.50.39:487][600]LogConcert: Display: Synced activity '46' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified BP_GoodSky_C_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.50.41:135][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.28-13.50.41:139][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-13.50.41:199][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.28-13.50.41:205][698]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Tutorial
+[2024.01.28-13.50.41:205][698]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_TutorialA6E862804DF79ED2FAC4A89198C963AE.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap'
+[2024.01.28-13.50.41:208][698]LogFileHelpers: Saving map 'L_Tutorial' took 0.019
+[2024.01.28-13.50.41:213][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 485 ms)
+[2024.01.28-13.50.41:217][698]AssetCheck: New page: Asset Save: L_Tutorial
+[2024.01.28-13.50.41:217][698]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-13.50.41:249][701]LogConcert: Display: Synced activity '47' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LethalTempo/Maps/L_Tutorial.
