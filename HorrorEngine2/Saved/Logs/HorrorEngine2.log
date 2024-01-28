@@ -1684,3 +1684,297 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.01.28-13.50.41:217][698]AssetCheck: New page: Asset Save: L_Tutorial
 [2024.01.28-13.50.41:217][698]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
 [2024.01.28-13.50.41:249][701]LogConcert: Display: Synced activity '47' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-13.59.34:837][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.28-13.59.35:205][728]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_81)
+[2024.01.28-13.59.35:205][728]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_89)
+[2024.01.28-13.59.35:205][728]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_90)
+[2024.01.28-13.59.35:205][728]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_98)
+[2024.01.28-13.59.35:205][728]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_108)
+[2024.01.28-13.59.35:273][728]LogLinker: Warning: Failed to load '/Game/LUSH_StylizedWaterComponent/EpicDemoContent/Characters/Mannequins/Rigs/CR_DemoMannequin_BasicFootIK': Can't find file.
+[2024.01.28-13.59.35:273][728]LogLinker: Warning: Failed to load '/Game/LUSH_StylizedWaterComponent/EpicDemoContent/Characters/Mannequins/Rigs/CR_DemoMannequin_BasicFootIK': Can't find file.
+[2024.01.28-13.59.35:273][728]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/LUSH_StylizedWaterComponent/EpicDemoContent/Characters/Mannequins/Rigs/CR_DemoMannequin_BasicFootIK.CR_DemoMannequin_BasicFootIK'
+[2024.01.28-13.59.35:343][728]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.01.28-13.59.35:466][728]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.59.35:477][728]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap
+[2024.01.28-13.59.35:477][728]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LUSH_StylizedEnvironmentSet/Maps/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-13.59.35:477][728]LightingResults: New page: Lighting Build
+[2024.01.28-13.59.35:478][728]LoadErrors: New page: Loading map: DemoMap.umap
+[2024.01.28-13.59.35:491][728]LogWorld: UWorld::CleanupWorld for L_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.59.35:491][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.59.35:491][728]MapCheck: New page: Map Check
+[2024.01.28-13.59.35:491][728]LightingResults: New page: Lighting Build
+[2024.01.28-13.59.35:495][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-13.59.35:498][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.28-13.59.35:512][728]LogWorld: UWorld::CleanupWorld for DemoMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-13.59.35:513][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-13.59.35:524][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.28-13.59.35:531][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.28-13.59.35:539][728]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_81)
+[2024.01.28-13.59.35:539][728]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_89)
+[2024.01.28-13.59.35:539][728]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_90)
+[2024.01.28-13.59.35:539][728]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_98)
+[2024.01.28-13.59.35:539][728]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_108)
+[2024.01.28-13.59.35:599][728]LogAudio: Display: Audio Device (ID: 1) registered with world 'DemoMap'.
+[2024.01.28-13.59.35:599][728]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.59.35:599][728]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-13.59.35:599][728]LogAIModule: Creating AISystem for world DemoMap
+[2024.01.28-13.59.35:642][728]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-13.59.35:649][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.28-13.59.35:651][728]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-13.59.35:651][728]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: ================================================
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Total job queries 524, among them cache hits 120 (22.90%)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Tracking 234 distinct input hashes that result in 147 distinct outputs (62.82%)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: RAM used: 5,37 MiB of 1,60 GiB budget. Usage: 0.33%
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Shaders Compiled: 34
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Jobs assigned 50, completed 34 (68.00%)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Average time worker was idle: 537.12 s
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.45 s
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Job execution time: average 0.43 s, max 0.64 s
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 0.68
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Shader code size: average 38,637 KiB, min 11,809 KiB, max 85,676 KiB
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.51 s
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Average processing rate: 13.56 jobs/sec
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Total thread time: 5,918 s
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Total thread preprocess time: 0,78 s
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Percentage time preprocessing: 13.17%
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Effective parallelization: 2.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.20 sec, max 0.27 sec, min 0.15 sec)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    9 times, average 0.18 sec, max 0.23 sec, min 0.12 sec)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.45% of total time (compiled    9 times, average 0.20 sec, max 0.27 sec, min 0.15 sec)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.75% of total time (compiled    9 times, average 0.18 sec, max 0.23 sec, min 0.12 sec)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.90% of total time (compiled    3 times, average 0.18 sec, max 0.20 sec, min 0.13 sec)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.55% of total time (compiled    3 times, average 0.11 sec, max 0.13 sec, min 0.08 sec)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 4.96% of total time (compiled    3 times, average 0.10 sec, max 0.10 sec, min 0.09 sec)
+[2024.01.28-13.59.36:244][731]LogShaderCompilers: Display: ================================================
+[2024.01.28-13.59.55:838][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.59.56:205][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-13.59.58:757][922]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.28-14.00.03:737][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.SM_Grass_Tiny
+[2024.01.28-14.00.03:738][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.SM_Grass_Tiny
+[2024.01.28-14.00.03:739][210]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.SM_Grass_Tiny as actor: StaticMeshActor /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_0
+[2024.01.28-14.00.08:658][485]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.SM_Grass_Tiny
+[2024.01.28-14.00.08:716][485]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.00.08:716][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-14.00.09:108][485]LogViewport: Scene viewport resized to 1986x784, mode Windowed.
+[2024.01.28-14.00.13:088][680]LogSlate: Window 'SM_Grass_Tiny' being destroyed
+[2024.01.28-14.00.13:097][680]LogSlate: Window 'SM_Grass_Tiny' being destroyed
+[2024.01.28-14.00.13:113][680]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.00.13:113][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.00.25:153][358]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_InstancedStaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SMF_Grass.SMF_Grass
+[2024.01.28-14.00.30:124][605]LogSlate: Window 'SMF_Grass' being destroyed
+[2024.01.28-14.00.40:196][204]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.SM_Grass_Tiny
+[2024.01.28-14.00.40:200][204]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.00.40:200][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-14.00.40:543][204]LogViewport: Scene viewport resized to 1405x942, mode Windowed.
+[2024.01.28-14.00.42:359][305]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.28-14.01.07:139][677]LogStaticMesh: Display: Building static mesh SM_Grass_Tiny...
+[2024.01.28-14.01.07:140][677]LogStaticMesh: Built static mesh [0.00s] /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.SM_Grass_Tiny
+[2024.01.28-14.01.07:248][678]LogConcert: Display: Synced activity '48' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil locked /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.
+[2024.01.28-14.01.12:480][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.28-14.01.12:484][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-14.01.12:553][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.28-14.01.12:638][979]LogSavePackage: Moving output files for package: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap
+[2024.01.28-14.01.12:641][979]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/DemoMap2F54B1E24B36ECA711C356B581A500F8.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LUSH_StylizedEnvironmentSet/Maps/DemoMap.umap'
+[2024.01.28-14.01.12:644][979]LogFileHelpers: Saving map 'DemoMap' took 0.103
+[2024.01.28-14.01.12:656][979]LogSavePackage: Moving output files for package: /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny
+[2024.01.28-14.01.12:656][979]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/SM_Grass_Tiny63AEA3564655CC686F1621A2F93E5E2A.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.uasset'
+[2024.01.28-14.01.12:666][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 667 ms)
+[2024.01.28-14.01.12:668][979]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-14.01.12:668][979]LogContentValidation: Display: Validating /Script/Engine.World /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap
+[2024.01.28-14.01.12:668][979]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.SM_Grass_Tiny
+[2024.01.28-14.01.12:977][993]LogConcert: Display: Synced activity '49' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.
+[2024.01.28-14.01.12:978][993]LogConcert: Display: Synced activity '50' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.
+[2024.01.28-14.01.12:978][993]LogConcert: Display: Synced activity '51' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil unlocked /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SM_Grass_Tiny.
+[2024.01.28-14.01.18:436][305]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_InstancedStaticMesh /Game/LUSH_StylizedEnvironmentSet/Foliage/Grass/SMF_Grass_Tiny.SMF_Grass_Tiny
+[2024.01.28-14.01.20:449][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.28-14.02.27:470][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.28-14.02.27:527][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.02.27:529][387]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-14.02.27:529][387]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-14.02.27:529][387]LightingResults: New page: Lighting Build
+[2024.01.28-14.02.27:530][387]LoadErrors: New page: Loading map: L_Tutorial.umap
+[2024.01.28-14.02.27:539][387]LogWorld: UWorld::CleanupWorld for DemoMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.02.27:539][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.02.27:539][387]MapCheck: New page: Map Check
+[2024.01.28-14.02.27:540][387]LightingResults: New page: Lighting Build
+[2024.01.28-14.02.27:542][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-14.02.27:549][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.28-14.02.27:551][387]LogWorld: UWorld::CleanupWorld for L_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.02.27:552][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.02.27:555][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.28-14.02.27:559][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.28-14.02.27:563][387]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Tutorial'.
+[2024.01.28-14.02.27:563][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.02.27:563][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-14.02.27:563][387]LogAIModule: Creating AISystem for world L_Tutorial
+[2024.01.28-14.02.27:582][387]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-14.02.27:585][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.28-14.02.27:589][387]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-14.02.27:589][387]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,118ms to complete.
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: ================================================
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Total job queries 674, among them cache hits 186 (27.60%)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Tracking 485 distinct input hashes that result in 347 distinct outputs (71.55%)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: RAM used: 11,46 MiB of 1,60 GiB budget. Usage: 0.70%
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Shaders Compiled: 285
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Jobs assigned 288, completed 285 (98.96%)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Average time worker was idle: 74.95 s
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Time job spent in pending queue: average 0.98 s, longest 2.91 s
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Job execution time: average 0.34 s, max 1.98 s
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Job life time (pending + execution): average 1.33 s, max 3.53
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Shader code size: average 37,458 KiB, min 4,359 KiB, max 85,676 KiB
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.42 s
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Jobs were issued in 288 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Average processing rate: 27.34 jobs/sec
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Total thread time: 63,117 s
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Total thread preprocess time: 6,609 s
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Percentage time preprocessing: 10.47%
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Effective parallelization: 6.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 1.81 sec, max 1.94 sec, min 1.68 sec)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   14 times, average 0.25 sec, max 0.36 sec, min 0.18 sec)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   48 times, average 0.24 sec, max 0.40 sec, min 0.14 sec)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display:                                                  FVelocityVS (compiled   15 times, average 0.22 sec, max 0.27 sec, min 0.15 sec)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled   11 times, average 0.22 sec, max 0.24 sec, min 0.19 sec)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.26% of total time (compiled   48 times, average 0.24 sec, max 0.40 sec, min 0.14 sec)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.33% of total time (compiled   51 times, average 0.21 sec, max 0.37 sec, min 0.12 sec)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.35% of total time (compiled   34 times, average 0.19 sec, max 0.29 sec, min 0.11 sec)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.58% of total time (compiled    3 times, average 1.81 sec, max 1.94 sec, min 1.68 sec)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.17% of total time (compiled   35 times, average 0.11 sec, max 0.21 sec, min 0.05 sec)
+[2024.01.28-14.06.18:194][396]LogShaderCompilers: Display: ================================================
+[2024.01.28-14.06.22:730][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/SM_LongRock.SM_LongRock
+[2024.01.28-14.06.22:730][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/SM_LongRock.SM_LongRock
+[2024.01.28-14.06.22:730][655]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/SM_LongRock.SM_LongRock as actor: StaticMeshActor /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.StaticMeshActor_0
+[2024.01.28-14.06.23:795][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/SM_LongRock.SM_LongRock
+[2024.01.28-14.06.23:795][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/SM_LongRock.SM_LongRock
+[2024.01.28-14.06.23:797][718]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/SM_LongRock.SM_LongRock as actor: StaticMeshActor /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.StaticMeshActor_1
+[2024.01.28-14.06.23:927][723]LogConcert: Display: Synced activity '52' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil created StaticMeshActor_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.27:346][928]LogConcert: Display: Synced activity '53' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil locked StaticMeshActor_1.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.27:890][960]LogConcert: Display: Synced activity '54' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified StaticMeshActor_1.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.27:890][960]LogConcert: Display: Synced activity '55' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil unlocked StaticMeshActor_1.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.28:515][998]LogConcert: Display: Synced activity '56' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil locked StaticMeshActor_1.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.30:169][ 97]LogConcert: Display: Synced activity '57' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified StaticMeshActor_1.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.30:169][ 97]LogConcert: Display: Synced activity '58' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil unlocked StaticMeshActor_1.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.31:139][154]LogConcert: Display: Synced activity '59' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified StaticMeshActor_1.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.34:453][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.28-14.06.34:458][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-14.06.34:506][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.01.28-14.06.34:513][352]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Tutorial
+[2024.01.28-14.06.34:513][352]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_TutorialD640BBB3444E7048C368E48824E43BDB.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap'
+[2024.01.28-14.06.34:516][352]LogFileHelpers: Saving map 'L_Tutorial' took 0.020
+[2024.01.28-14.06.34:524][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 733 ms)
+[2024.01.28-14.06.34:527][352]AssetCheck: New page: Asset Save: L_Tutorial
+[2024.01.28-14.06.34:527][352]LogContentValidation: Display: Validating /Script/Engine.World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-14.06.34:558][354]LogConcert: Display: Synced activity '60' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.35:205][389]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Rocks/SM_LongRock.SM_LongRock
+[2024.01.28-14.06.35:210][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.06.35:210][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-14.06.35:646][389]LogViewport: Scene viewport resized to 1405x942, mode Windowed.
+[2024.01.28-14.06.47:190][ 41]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.06.47:190][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.06.50:402][232]Cmd: DELETE
+[2024.01.28-14.06.50:402][232]Cmd: ACTOR DELETE
+[2024.01.28-14.06.50:403][232]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.28-14.06.50:408][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.28-14.06.50:411][232]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.01.28-14.06.50:462][236]LogConcert: Display: Synced activity '61' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil deleted StaticMeshActor_1 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.54:426][459]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Stones/SM_Stone_A_02.SM_Stone_A_02
+[2024.01.28-14.06.54:426][459]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Stones/SM_Stone_A_02.SM_Stone_A_02
+[2024.01.28-14.06.54:427][459]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Stones/SM_Stone_A_02.SM_Stone_A_02 as actor: StaticMeshActor /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.StaticMeshActor_2
+[2024.01.28-14.06.54:902][487]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Stones/SM_Stone_A_02.SM_Stone_A_02
+[2024.01.28-14.06.54:902][487]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Stones/SM_Stone_A_02.SM_Stone_A_02
+[2024.01.28-14.06.54:903][487]LogActorFactory: Actor Factory spawned StaticMesh /Game/LUSH_StylizedEnvironmentSet/Meshes/Stones/SM_Stone_A_02.SM_Stone_A_02 as actor: StaticMeshActor /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial:PersistentLevel.StaticMeshActor_3
+[2024.01.28-14.06.55:009][491]LogConcert: Display: Synced activity '62' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil created StaticMeshActor_3 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.55:741][535]LogConcert: Display: Synced activity '63' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil locked StaticMeshActor_3.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.55:964][548]LogConcert: Display: Synced activity '64' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified StaticMeshActor_3.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.55:964][548]LogConcert: Display: Synced activity '65' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil unlocked StaticMeshActor_3.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.06.57:125][617]LogConcert: Display: Synced activity '66' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified StaticMeshActor_3.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.07.05:647][108]LogConcert: Display: Synced activity '67' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified StaticMeshActor_3.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.07.07:025][190]Cmd: TRANSACTION UNDO
+[2024.01.28-14.07.07:025][190]LogEditorTransaction: Undo Create Actors
+[2024.01.28-14.07.07:296][193]LogConcert: Display: Synced activity '68' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil modified StaticMeshActor_3.StaticMeshComponent0 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.07.16:983][624]Cmd: DELETE
+[2024.01.28-14.07.16:983][624]Cmd: ACTOR DELETE
+[2024.01.28-14.07.16:985][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.28-14.07.16:989][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.28-14.07.16:991][624]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2024.01.28-14.07.17:031][627]LogConcert: Display: Synced activity '69' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil deleted StaticMeshActor_3 in /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.07.18:821][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.28-14.07.20:235][734]LogSlate: Window 'Save Content' being destroyed
+[2024.01.28-14.07.20:248][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-14.07.20:311][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.28-14.07.20:318][734]LogSavePackage: Moving output files for package: /Game/LethalTempo/Maps/L_Tutorial
+[2024.01.28-14.07.20:319][734]LogSavePackage: Moving '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Saved/L_Tutorial478874D243BC9D47CF9076B0086AA7FD.tmp' to '../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap'
+[2024.01.28-14.07.20:321][734]LogFileHelpers: Saving map 'L_Tutorial' took 0.020
+[2024.01.28-14.07.20:330][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 814 ms)
+[2024.01.28-14.07.20:373][734]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_81)
+[2024.01.28-14.07.20:373][734]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_89)
+[2024.01.28-14.07.20:373][734]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_90)
+[2024.01.28-14.07.20:373][734]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_98)
+[2024.01.28-14.07.20:373][734]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_108)
+[2024.01.28-14.07.20:434][734]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.07.20:440][734]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap
+[2024.01.28-14.07.20:441][734]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LUSH_StylizedEnvironmentSet/Maps/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-14.07.20:441][734]LightingResults: New page: Lighting Build
+[2024.01.28-14.07.20:441][734]LoadErrors: New page: Loading map: DemoMap.umap
+[2024.01.28-14.07.20:447][734]LogWorld: UWorld::CleanupWorld for L_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.07.20:447][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.07.20:447][734]MapCheck: New page: Map Check
+[2024.01.28-14.07.20:447][734]LightingResults: New page: Lighting Build
+[2024.01.28-14.07.20:451][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-14.07.20:452][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.28-14.07.20:456][734]LogWorld: UWorld::CleanupWorld for DemoMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.07.20:456][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.07.20:474][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.28-14.07.20:477][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.28-14.07.20:486][734]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_81)
+[2024.01.28-14.07.20:486][734]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_89)
+[2024.01.28-14.07.20:486][734]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_90)
+[2024.01.28-14.07.20:486][734]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_98)
+[2024.01.28-14.07.20:486][734]LogInstancedFoliage: Warning: Instance base cache - integrity verification(3): Counter: 1047 Size: 68, InvSize: 63 (Key: /Game/LUSH_StylizedEnvironmentSet/Maps/DemoMap.DemoMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_108)
+[2024.01.28-14.07.20:545][734]LogAudio: Display: Audio Device (ID: 1) registered with world 'DemoMap'.
+[2024.01.28-14.07.20:545][734]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.07.20:545][734]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-14.07.20:546][734]LogAIModule: Creating AISystem for world DemoMap
+[2024.01.28-14.07.20:592][734]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-14.07.20:598][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.28-14.07.20:601][734]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-14.07.20:601][734]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2024.01.28-14.07.20:612][734]AssetCheck: New page: Asset Save: L_Tutorial
+[2024.01.28-14.07.20:972][736]LogConcert: Display: Synced activity '70' produced by endpoint 'B45693874EE3DBC0BA8A22BAA8B28BED': Neil saved package /Game/LethalTempo/Maps/L_Tutorial.
+[2024.01.28-14.07.48:472][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.28-14.07.48:526][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.07.48:529][365]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LethalTempo/Maps/L_Tutorial.L_Tutorial
+[2024.01.28-14.07.48:529][365]Cmd: MAP LOAD FILE="../../../../../../Users/coert/Documents/GitHub/LethalTempo/LethalTempo/HorrorEngine2/Content/LethalTempo/Maps/L_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-14.07.48:529][365]LightingResults: New page: Lighting Build
+[2024.01.28-14.07.48:529][365]LoadErrors: New page: Loading map: L_Tutorial.umap
+[2024.01.28-14.07.48:538][365]LogWorld: UWorld::CleanupWorld for DemoMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.07.48:538][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.07.48:539][365]MapCheck: New page: Map Check
+[2024.01.28-14.07.48:539][365]LightingResults: New page: Lighting Build
+[2024.01.28-14.07.48:542][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-14.07.48:547][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.28-14.07.48:550][365]LogWorld: UWorld::CleanupWorld for L_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-14.07.48:550][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-14.07.48:554][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.28-14.07.48:557][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.28-14.07.48:560][365]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Tutorial'.
+[2024.01.28-14.07.48:560][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-14.07.48:560][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-14.07.48:561][365]LogAIModule: Creating AISystem for world L_Tutorial
+[2024.01.28-14.07.48:579][365]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-14.07.48:584][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.28-14.07.48:586][365]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-14.07.48:586][365]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2024.01.28-14.07.49:596][419]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
